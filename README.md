@@ -33,6 +33,6 @@ Results of the data analysis show English free apps with applications to social 
 |   9  |                    TOOLS                    |      Educational;Action & Adventure     |            Photo & Video           |
 |  10  |              NEWS_AND_MAGAZINES             |               Productivity              |               Travel               |
 
-Please see full the exploratory data analysis in the `Project 1.ipynb` notebook above.
+Please see the full exploratory data analysis in the `Project 1.ipynb` notebook above.
 
  
